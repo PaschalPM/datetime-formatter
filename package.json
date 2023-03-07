@@ -1,0 +1,25 @@
+{
+  "name": "@pasmac/datetime-formatter",
+  "version": "1.0.0",
+  "description": "Parses date and time from milli-seconds to human readable formats",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaschalPM/datetime-formatter.git"
+  },
+  "keywords": [
+    "milli-seconds",
+    "date",
+    "time",
+    "days"
+  ],
+  "author": "Paschal-Mark Okafor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PaschalPM/datetime-formatter/issues"
+  },
+  "homepage": "https://github.com/PaschalPM/datetime-formatter#readme"
+}
