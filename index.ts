@@ -80,7 +80,7 @@ function dateFormat(timestamp:MilliSeconds) {
             return ("Today");
         } else if (diff < (todayInMilliSecs + dayInMilliSecs)) {
             return ("Yesterday");
-        } else if (diff < (todayInMilliSecs + (dayInMilliSecs * 5))) {
+        } else if (diff < (todayInMilliSecs + (dayInMilliSecs * 6))) {
             return dateTimeForHumans(timestamp).day()
         }
 
